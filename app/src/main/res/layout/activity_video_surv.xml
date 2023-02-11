@@ -23,7 +23,7 @@
         app:layout_constraintStart_toEndOf="@id/tvSenderEmail"
         app:layout_constraintEnd_toEndOf="parent"
         android:inputType="textEmailAddress"
-        android:text="foryourtest2023@gmail.com"/>
+        android:text="yourSendinggmail@gmail.com"/>
     <TextView
         android:id="@+id/tvSenderKey"
         android:layout_width="wrap_content"
@@ -40,7 +40,7 @@
         app:layout_constraintTop_toBottomOf="@+id/etSenderEmail"
         app:layout_constraintStart_toEndOf="@id/tvSenderKey"
         app:layout_constraintEnd_toEndOf="parent"
-        android:text="bujzusrxpwxltope"/>
+        android:text="yourSendingGmailAPPKey"/>
     <TextView
         android:id="@+id/tvRecvEmail"
         android:layout_width="wrap_content"
@@ -58,7 +58,7 @@
         app:layout_constraintStart_toEndOf="@id/tvRecvEmail"
         app:layout_constraintEnd_toEndOf="parent"
         android:inputType="textEmailAddress"
-        android:text="checknumber2013@gmail.com"/>
+        android:text="yourReceivingEmail@gmail.com"/>
     <Button
         android:id="@+id/btStartSurv"
         android:layout_width="wrap_content"
